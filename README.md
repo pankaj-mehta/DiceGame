@@ -4,7 +4,7 @@ The website simulates a dice game challenge where on every refresh both dice are
 
 
 ## Live Link:
-[Dice Game](https://pankaj-mehta.github.io/DiceGame/ - Let the Dice🎲 determine who Wins🏆!
+[DiceGame](https://pankaj-mehta.github.io/DiceGame/ - Let the Dice🎲 determine who Wins🏆!
 
 
 ## Desktop View:
